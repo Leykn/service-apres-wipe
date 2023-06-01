@@ -3,7 +3,7 @@
             <div class="flex items-center space-x-3">
                 <div class="avatar mediaBasic">
                     <div class="mask mask-squircle w-12 h-12">
-                        <img src="/_nuxt/assets/default_avatar.png" alt="Avatar Tailwind CSS Component" />
+                        <img src="../assets/default_avatar.png" alt="Avatar Tailwind CSS Component" />
                     </div>
                 </div>
                 <div>
