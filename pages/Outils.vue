@@ -10,7 +10,7 @@
                         Cette outil vous localisera aussi bien vos récoltes que les mobs que vous traquez !
                     </p>
                 </div>
-                <figure><img src="/_nuxt/assets/map_optimized.png" alt="Map Interactive" /></figure>
+                <figure><img src="../assets/map_optimized.png" alt="Map Interactive" /></figure>
                 </a>
             </article>
             <article class="card w-96 min-h-96 bg-base-100 shadow-xl overflow-hidden my-2">
@@ -21,7 +21,7 @@
                         Pour toutes information sur le jeu (item, mobs, craft, loot ect...), rien de mieux qu'une base de donnée !
                     </p>
                 </div>
-                <figure><img src="/_nuxt/assets/aioncodex_optimized.png" alt="Map Interactive" /></figure>
+                <figure><img src="../assets/aioncodex_optimized.png" alt="Map Interactive" /></figure>
                 </a>
             </article>
             <article class="card w-96 min-h-96 bg-base-100 shadow-xl overflow-hidden my-2">
@@ -32,7 +32,7 @@
                         Cette outil est fait pour ceux qui veulent savoir combien coûtera leurs stigmas suppérieures !
                     </p>
                 </div>
-                <figure><img src="/_nuxt/assets/stigma_optimized.png" alt="Stigma Calculateur" /></figure>
+                <figure><img src="../assets/stigma_optimized.png" alt="Stigma Calculateur" /></figure>
                 </a>
             </article>
         </div>
