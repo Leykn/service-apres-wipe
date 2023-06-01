@@ -45,13 +45,13 @@ import BaseListUser from '../components/BaseListUser.vue'
                     {
                         pseudo: "Ashard",
                         classe: "Templier",
-                        Rang: "Tribun",
+                        Rang: "Légionnaire",
                         Métier: ""
                     },
                     {
                         pseudo: "Azra",
                         classe: "Gladiateur",
-                        Rang: "Centurion",
+                        Rang: "Légionnaire",
                         Métier: ""
                     },
                     {
@@ -63,7 +63,7 @@ import BaseListUser from '../components/BaseListUser.vue'
                     {
                         pseudo: "Hantares",
                         classe: "Rôdeur",
-                        Rang: "Centurion",
+                        Rang: "Légionnaire",
                         Métier: ""
                     },
                     {
@@ -79,7 +79,7 @@ import BaseListUser from '../components/BaseListUser.vue'
                         Métier: ""
                     },
                     {
-                        pseudo: "Noconie",
+                        pseudo: "Nocorie",
                         classe: "Sorcier",
                         Rang: "Centurion",
                         Métier: ""
@@ -97,45 +97,21 @@ import BaseListUser from '../components/BaseListUser.vue'
                         Métier: "Alchimie"
                     },
                     {
-                        pseudo: "Baku",
-                        classe: "Assassin",
-                        Rang: "Légionnaire",
-                        Métier: ""
-                    },
-                    {
-                        pseudo: "Dmz",
-                        classe: "Gladiateur",
-                        Rang: "Légionnaire",
-                        Métier: ""
-                    },
-                    {
-                        pseudo: "Heidyne",
-                        classe: "Spiritualiste",
-                        Rang: "Légionnaire",
-                        Métier: ""
-                    },
-                    {
                         pseudo: "Korigann",
                         classe: "Clerc",
                         Rang: "Légionnaire",
                         Métier: ""
                     },
                     {
-                        pseudo: "Lakrass",
-                        classe: "Sorcier",
-                        Rang: "Légionnaire",
+                        pseudo: "Lakraps",
+                        classe: "Gladiateur",
+                        Rang: "Centurion",
                         Métier: ""
                     },
                     {
                         pseudo: "Macminou",
                         classe: "Clerc",
-                        Rang: "Légionnaire",
-                        Métier: ""
-                    },
-                    {
-                        pseudo: "Merguezz",
-                        classe: "Rôdeur",
-                        Rang: "Légionnaire",
+                        Rang: "Centurion",
                         Métier: ""
                     },
                     {
@@ -153,7 +129,7 @@ import BaseListUser from '../components/BaseListUser.vue'
                     {
                         pseudo: "Peykah",
                         classe: "Spiritualiste",
-                        Rang: "Légionnaire",
+                        Rang: "Tribun",
                         Métier: ""
                     },
                     {
@@ -177,37 +153,31 @@ import BaseListUser from '../components/BaseListUser.vue'
                     {
                         pseudo: "Alcynes",
                         classe: "Clerc",
-                        Rang: "Recrue",
+                        Rang: "Légionnaire",
                         Métier: "Cuisine"
                     },
                     {
                         pseudo: "Azarel",
                         classe: "Rôdeur",
-                        Rang: "Recrue",
-                        Métier: ""
-                    },
-                    {
-                        pseudo: "Blakmamba",
-                        classe: "Aède",
-                        Rang: "Recrue",
+                        Rang: "Légionnaire",
                         Métier: ""
                     },
                     {
                         pseudo: "Bonbon",
                         classe: "Spiritualiste",
-                        Rang: "Recrue",
+                        Rang: "Légionnaire",
                         Métier: ""
                     },
                     {
                         pseudo: "Bounty",
                         classe: "Clerc",
-                        Rang: "Recrue",
+                        Rang: "Légionnaire",
                         Métier: ""
                     },
                     {
                         pseudo: "Braze",
                         classe: "Gladiateur",
-                        Rang: "Recrue",
+                        Rang: "Légionnaire",
                         Métier: ""
                     },
                     {
@@ -229,15 +199,9 @@ import BaseListUser from '../components/BaseListUser.vue'
                         Métier: ""
                     },
                     {
-                        pseudo: "Mailynn",
-                        classe: "Spiritualiste",
-                        Rang: "Recrue",
-                        Métier: ""
-                    },
-                    {
                         pseudo: "Marluxia",
                         classe: "Sorcier",
-                        Rang: "Recrue",
+                        Rang: "Légionnaire",
                         Métier: ""
                     },
                     {
@@ -249,36 +213,18 @@ import BaseListUser from '../components/BaseListUser.vue'
                     {
                         pseudo: "Ocalm",
                         classe: "Assassin",
-                        Rang: "Recrue",
-                        Métier: ""
-                    },
-                    {
-                        pseudo: "Oometisse",
-                        classe: "Clerc",
-                        Rang: "Recrue",
+                        Rang: "Légionnaire",
                         Métier: ""
                     },
                     {
                         pseudo: "Pwachiche",
                         classe: "Templier",
-                        Rang: "Recrue",
+                        Rang: "Légionnaire",
                         Métier: ""
                     },
                     {
                         pseudo: "Risbo",
                         classe: "Templier",
-                        Rang: "Recrue",
-                        Métier: ""
-                    },
-                    {
-                        pseudo: "Risjo",
-                        classe: "Gladiateur",
-                        Rang: "recrue",
-                        Métier: ""
-                    },
-                    {
-                        pseudo: "Sachimie",
-                        classe: "Spiritualiste",
                         Rang: "Recrue",
                         Métier: ""
                     },
@@ -291,55 +237,103 @@ import BaseListUser from '../components/BaseListUser.vue'
                     {
                         pseudo: "Spowned",
                         classe: "Spiritualiste",
-                        Rang: "Recrue",
-                        Métier: ""
-                    },
-                    {
-                        pseudo: "Suha",
-                        classe: "Clerc",
-                        Rang: "Recrue",
+                        Rang: "Légionnaire",
                         Métier: ""
                     },
                     {
                         pseudo: "Tehix",
                         classe: "Clerc",
-                        Rang: "Recrue",
+                        Rang: "Légionnaire",
                         Métier: ""
                     },
                     {
                         pseudo: "Tozyer",
                         classe: "Rôdeur",
-                        Rang: "Recrue",
-                        Métier: ""
-                    },
-                    {
-                        pseudo: "Tsukasaa",
-                        classe: "Sorcier",
-                        Rang: "Recrue",
+                        Rang: "Légionnaire",
                         Métier: ""
                     },
                     {
                         pseudo: "Xenoria",
                         classe: "Clerc",
-                        Rang: "Recrue",
-                        Métier: ""
-                    },
-                    {
-                        pseudo: "Xheal",
-                        classe: "Clerc",
-                        Rang: "Recrue",
-                        Métier: ""
-                    },
-                    {
-                        pseudo: "Yamabushi",
-                        classe: "Rôdeur",
-                        Rang: "Recrue",
+                        Rang: "Légionnaire",
                         Métier: ""
                     },
                     {
                         pseudo: "Zuul",
                         classe: "Sorcier",
+                        Rang: "Légionnaire",
+                        Métier: ""
+                    },
+                    {
+                        pseudo: "Bezoe",
+                        classe: "Aède",
                         Rang: "Recrue",
+                        Métier: ""
+                    },
+                    {
+                        pseudo: "Draknire",
+                        classe: "Spiritualiste",
+                        Rang: "Recrue",
+                        Métier: ""
+                    },
+                    {
+                        pseudo: "Fyurdrimm",
+                        classe: "Spiritualiste",
+                        Rang: "Recrue",
+                        Métier: ""
+                    },
+                    {
+                        pseudo: "Helios",
+                        classe: "Sorcier",
+                        Rang: "Légionnaire",
+                        Métier: ""
+                    },
+                    {
+                        pseudo: "Hestias",
+                        classe: "Templier",
+                        Rang: "Légionnaire",
+                        Métier: ""
+                    },
+                    {
+                        pseudo: "Karib",
+                        classe: "Rôdeur",
+                        Rang: "Recrue",
+                        Métier: ""
+                    },
+                    {
+                        pseudo: "Leicka",
+                        classe: "Rôdeur",
+                        Rang: "Recrue",
+                        Métier: ""
+                    },
+                    {
+                        pseudo: "Lysa",
+                        classe: "Templier",
+                        Rang: "Légionnaire",
+                        Métier: ""
+                    },
+                    {
+                        pseudo: "Mandus",
+                        classe: "Rôdeur",
+                        Rang: "Recrue",
+                        Métier: ""
+                    },
+                    {
+                        pseudo: "Myckinette",
+                        classe: "Sorcier",
+                        Rang: "Recrue",
+                        Métier: ""
+                    },
+                    {
+                        pseudo: "Yucha",
+                        classe: "Aède",
+                        Rang: "Légionnaire",
+                        Métier: ""
+                    },
+                    {
+                        pseudo: "Zehff",
+                        classe: "Sorcier",
+                        Rang: "Légionnaire",
                         Métier: ""
                     },
                 ]
