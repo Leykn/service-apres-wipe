@@ -21,7 +21,7 @@
                         Pour toutes information sur le jeu (item, mobs, craft, loot ect...), rien de mieux qu'une base de donnée !
                     </p>
                 </div>
-                <figure><img src="../assets/aioncodex_optimized.png" alt="Map Interactive" /></figure>
+                <figure><img src="../assets/aioncodex_optimized.png" alt="Database d'aion" /></figure>
                 </a>
             </article>
             <article class="card w-96 min-h-96 bg-base-100 shadow-xl overflow-hidden my-2">
