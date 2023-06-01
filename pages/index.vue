@@ -23,7 +23,7 @@ h1, p {
     min-height: 100%;
 }
 .bg-home {
-    background-image: url(/_nuxt/assets/imgaccueil_optimized.jpg);
+    background-image: url(../assets/imgaccueil_optimized.jpg);
     background-position: top;
     background-attachment: fixed;
 }

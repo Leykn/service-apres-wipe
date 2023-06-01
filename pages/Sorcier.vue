@@ -233,7 +233,7 @@ th, td {
     text-align: center;
 }
 section {
-    background-image: url(/_nuxt/assets/imgtissu_optimized.png);
+    background-image: url(../assets/imgtissu_optimized.png);
     background-position: center;
     background-attachment: fixed;
     background-size: cover;

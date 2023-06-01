@@ -45,7 +45,7 @@
 
 <style lang="css" scoped>
 .bg-home {
-    background-image: url(/_nuxt/assets/imgaccueil_optimized.jpg);
+    background-image: url(../assets/imgaccueil_optimized.jpg);
     background-position: top;
     background-attachment: fixed;
 }

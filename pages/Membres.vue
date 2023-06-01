@@ -357,7 +357,7 @@ import BaseListUser from '../components/BaseListUser.vue'
     z-index: 1;
 }
 .bg-home {
-    background-image: url(/_nuxt/assets/imgaccueil_optimized.jpg);
+    background-image: url(../assets/imgaccueil_optimized.jpg);
     background-position: top;
     background-attachment: fixed;
 }

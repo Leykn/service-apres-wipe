@@ -215,7 +215,7 @@ th, td {
     text-align: center;
 }
 section {
-    background-image: url(/_nuxt/assets/imgcuir2_optimized.jpg);
+    background-image: url(../assets/imgcuir2_optimized.jpg);
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
