@@ -7,6 +7,7 @@
             <nav class="flex-none">
                 <ul class="menu menu-horizontal px-1">
                     <li><NuxtLink to="/">Accueil</NuxtLink></li>
+                    <li><NuxtLink to="Actualite">Actualités</NuxtLink></li>
                     <li tabindex="0">
                         <span>
                             Classes
