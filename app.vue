@@ -35,6 +35,12 @@ h3 {
     color: #FFFFFF;
     text-shadow: 2px 2px 0 hsl(var(--p)), 2px -2px 0 hsl(var(--p)), -2px 2px 0 hsl(var(--p)), -2px -2px 0 hsl(var(--p)), 2px 0px 0 hsl(var(--p)), 0px 2px 0 hsl(var(--p)), -2px 0px 0 hsl(var(--p)), 0px -2px 0 hsl(var(--p));
 }
+tr {
+  background-color: hsla(360, 100%, 100%, 0.75);
+}
+tbody tr:hover {
+  background-color: hsla(360, 100%, 100%, 0.95);
+}
 .mediaBasic {
     display: flex;
 }
@@ -42,7 +48,7 @@ h3 {
     display: none;
 }
 .txtSize {
-  font-size: 6rem;
+  font-size: 5vw;
   line-height: 1;
 }
 

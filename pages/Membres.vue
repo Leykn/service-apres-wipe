@@ -151,12 +151,6 @@ import BaseListUser from '../components/BaseListUser.vue'
                         Métier: ""
                     },
                     {
-                        pseudo: "Hestias",
-                        classe: "Templier",
-                        Rang: "Légionnaire",
-                        Métier: ""
-                    },
-                    {
                         pseudo: "Korigann",
                         classe: "Clerc",
                         Rang: "Légionnaire",
@@ -321,12 +315,6 @@ import BaseListUser from '../components/BaseListUser.vue'
                     {
                         pseudo: "Spartbuff",
                         classe: "Aède",
-                        Rang: "Recrue",
-                        Métier: ""
-                    },
-                    {
-                        pseudo: "Risbo",
-                        classe: "Templier",
                         Rang: "Recrue",
                         Métier: ""
                     },

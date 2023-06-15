@@ -253,7 +253,6 @@ table {
     border-width: 1px;
     border-color: #222 !important;
     border-collapse: collapse;
-    background-color: hsla(360, 100%, 100%, 0.75);
 }
 .textAlign {
     text-align: start;
