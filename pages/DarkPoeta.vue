@@ -122,7 +122,7 @@
                 <b>Ces scarabées sont relativement facile à tuer</b>, il s’agit plus d’un test d’endurance et de réactivité de tout les membres du groupe. 
                 <b>En gros, vous devez ramener le boss dans le cratère , ce qui le fera manger le Fragment de Drana. 
                 Pendant ce temps, il ne fera rien, et vous pourrez joyeusement le dps</b>. 
-                Faites attention à son buff <span class="wipe">Drana Pause</span>, à <b>5 secondes vous devez vous déplacer à l’autre Fragment de Drana et répéter le processus</b> jusqu’à ce qu’il soit mort. 
+                Faites attention à son buff <b><span class="wipe">Drana Pause</span></b>, à <b>5 secondes vous devez vous déplacer à l’autre Fragment de Drana et répéter le processus</b> jusqu’à ce qu’il soit mort. 
                 Si tout se déroule selon le plan, vous devriez lui retirer plus ou moins 12% à chaque arrêt. 
                 Cependant, vous devrez prêter attention à un certain nombre de choses en faisant ceci. 
                 Pendant que le groupe attend au cratère de Drana que le boss arrive, assurez vous que :
