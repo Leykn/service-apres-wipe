@@ -71,7 +71,5 @@
 </script>
 
 <style lang="css" scoped>
-.wipe {
-    color: hsl(var(--p));
-}
+
 </style>

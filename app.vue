@@ -51,6 +51,9 @@ tbody tr:hover {
   font-size: 5vw;
   line-height: 1;
 }
+.wipe {
+    color: hsl(var(--p));
+}
 
 @media screen and (max-width: 767px) {
     td {
