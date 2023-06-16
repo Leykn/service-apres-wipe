@@ -37,6 +37,7 @@
                     </label>
                     <ul tabindex="0" class="menu menu-sm dropdown-content mt-3 p-1 shadow bg-base-100 rounded-box"> 
                         <li><NuxtLink to="/">Accueil</NuxtLink></li>
+                        <li><NuxtLink to="DarkPoeta">Dark Poéta</NuxtLink></li>
                         <li tabindex="0">
                             <span>
                                 Classes
