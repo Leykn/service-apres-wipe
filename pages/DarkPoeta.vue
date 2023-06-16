@@ -126,13 +126,13 @@
                 Si tout se déroule selon le plan, vous devriez lui retirer plus ou moins 12% à chaque arrêt. 
                 Cependant, vous devrez prêter attention à un certain nombre de choses en faisant ceci. 
                 Pendant que le groupe attend au cratère de Drana que le boss arrive, assurez vous que :
+                <ul>
+                    <li>Vous êtes stack les uns sur les autres. Autrement le boss lancera une AoE qui fait mal !</li>
+                    <li>Vous êtes alignés avec le boss pour le diriger directement sur le cratère de drana. Ceci peut nécessiter des déplacements car le boss va parfois changer de direction.</li>
+                    <li>N’attaquez pas le boss avant qu’il commence à manger son drana. Rengainez vos armes si besoin.</li>
+                    <li>Si le Fragment de Drana est buggé, vous devez l’attirer entre les deux cratère jusqu’à ce qu’il en mange un, ce qui peut causer des morts.</li>
+                </ul>
             </p>
-            <ul>
-                <li>Vous êtes stack les uns sur les autres. Autrement le boss lancera une AoE qui fait mal !</li>
-                <li>Vous êtes alignés avec le boss pour le diriger directement sur le cratère de drana. Ceci peut nécessiter des déplacements car le boss va parfois changer de direction.</li>
-                <li>N’attaquez pas le boss avant qu’il commence à manger son drana. Rengainez vos armes si besoin.</li>
-                <li>Si le Fragment de Drana est buggé, vous devez l’attirer entre les deux cratère jusqu’à ce qu’il en mange un, ce qui peut causer des morts.</li>
-            </ul>
             <p>
                 C’est à peu près tout ce qu’il y a à savoir pour ces boss. 
                 <b>C’est ici que vous perdrez le plus de temps si quelque chose se passe mal</b>, donc ne vous foirez pas. 
@@ -172,12 +172,12 @@
                 C’est un énorme boss arbre qui vous attrape pour vous écraser contre le sol. 
                 Cette attaque peut faire pas mal de dégâts. 
                 <b>Trois règles pour ce combat :</b>
+                <ul>
+                    <li>Ne vous tenez pas sur les cercles sur le sol, restez entre les cercles.</li>
+                    <li>Le tank et le groupe ne doivent pas être au même endroit.</li>
+                    <li>Aucune AoE quelle qu'elle soit.</li>
+                </ul>
             </p>
-            <ul>
-                <li>Ne vous tenez pas sur les cercles sur le sol, restez entre les cercles.</li>
-                <li>Le tank et le groupe ne doivent pas être au même endroit.</li>
-                <li>Aucune AoE quelle qu'elle soit.</li>
-            </ul>
             <p>
                 Des adds vont spawn, <b>mais tant que vous ne leur faites rien, ils ne vous attaqueront pas. 
                 N’utilisez donc aucune AoE</b>. 
