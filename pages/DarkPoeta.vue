@@ -239,7 +239,7 @@ h2 {
     color: #FFFFFF;
     text-shadow: 2px 2px 0 hsl(var(--p)), 2px -2px 0 hsl(var(--p)), -2px 2px 0 hsl(var(--p)), -2px -2px 0 hsl(var(--p)), 2px 0px 0 hsl(var(--p)), 0px 2px 0 hsl(var(--p)), -2px 0px 0 hsl(var(--p)), 0px -2px 0 hsl(var(--p));
 }
-p {
+p, ul {
     margin: 10px 5%;
 }
 ul {
